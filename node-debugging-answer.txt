@@ -1,6 +1,7 @@
 1.you access the DevTools for node in chrome by visiting chrome://inspect and clicking on "dedicated devTools for Node
 2. the regular DevTools are initiated by right-clicking on a page and choosing the inspect option, while the node
 DevTools start by entering in `chrome://inspect` in the address bar. The regular devTools work on client-side code, while
-the Node DevTools work on server-side code.
+the Node DevTools work on server-side code. the node devTools also support some extra features such as blackboxing,profiling,
+workspaces, and source maps.
 3.`c`,`cont`
 4.`debugger`
